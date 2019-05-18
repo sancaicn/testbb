@@ -1,3 +1,0 @@
-this is study git first hello
-second mofiby github file,PC use git pull 
-thress push file to github.com from pc
