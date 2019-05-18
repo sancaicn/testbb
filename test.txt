@@ -1,1 +1,2 @@
-this is study git first hello
+this is study git first helle
+second mofiby github file,PC use git pull 
